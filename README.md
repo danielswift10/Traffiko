@@ -1,4 +1,4 @@
-#Traffiko landing page solution
+# Traffiko landing page solution
 
 Traffiko is a website application that helps in getting the most accurate information on the traffic level along any road. It also helps to provide free auto re-routing, trip advisor services and weather forecast.
 
