@@ -51,14 +51,14 @@ Events users can perform while on the page:
 ### Resources
 [Iconify] - (https://icon-sets.iconify.design/) - Icons used for the project
 
-## Author
+## Authors
 
-## Frontend Developer
+### Frontend Developer
 - Website - [danielswift10](https://github.com/danielswift10)
 - Twitter - [@swift_fingers_](https://twitter.com/swift_fingers_)
 - LinkedIn - [Daniel Ojeyomi](https://www.linkedin.com/in/daniel-ojeyomi-60466019b)
 
-## UI Designer
+### UI Designer
 - Website - [danielolasunkanmiDC](https://www.behance.net/danielolasunkanmiDC)
 - Twitter - [@OlasunkanmiDc](https://twitter.com/OlasunkanmiDc)
 
