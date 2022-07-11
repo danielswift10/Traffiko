@@ -34,7 +34,7 @@ Events users can perform while on the page:
 ### Links
 
 - GitHub Repository URL: [GitHub Repository URL](https://github.com/danielswift10/Traffiko)
-- Live Site URL: [Traffiko Landing Page](https://swift-clipboard-landing-page.netlify.app)
+- Live Site URL: [Traffiko Landing Page](https://danielswift10.github.io/Traffiko/)
 
 ## My process
 
