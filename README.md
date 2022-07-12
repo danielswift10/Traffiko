@@ -1,6 +1,6 @@
 # Traffiko
 
-Traffiko is a web application that helps people in getting the most accurate information on the traffic level along any road. It also helps to provide free auto re-routing, trip advisor services and weather forecast.
+Traffiko is a web and mobile application that helps people in getting the most accurate information on the traffic level along any road. It also helps to provide free auto re-routing, trip advisor services and weather forecast.
 
 The project would be fully launched to everyone to use in few months from now.
 
@@ -13,7 +13,7 @@ The project would be fully launched to everyone to use in few months from now.
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Resources](#useful-resources)
-- [Author](#author)
+- [Authors](#authors)
 - [Acknowledgments](#acknowledgments)
 
 
