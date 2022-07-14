@@ -278,6 +278,7 @@ header{
     min-width: 105%;
     z-index: 1;
     background-color: hsl(0, 0%, 100%);
+    opacity: 90%;
 }
 
 .header-container{
@@ -1078,6 +1079,7 @@ footer{
         flex-direction: column;
         background-color: white;
         width: 105%;
+        height: 100vh;
         text-align: center;
         transition: 0.3s;
     }
