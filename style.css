@@ -1,4 +1,6 @@
-*{
+*,
+*::before,
+*::after{
     margin: 0;
     padding: 0;
     text-decoration: none;
@@ -519,6 +521,11 @@ header{
     padding: 30px 20px;
 }
 
+.card:hover{
+    transform: translateY(-8px);
+    cursor: pointer;
+}
+
 .card-1{
     grid-area: card-1;
     height: 1fr;
@@ -715,6 +722,11 @@ header{
     padding: 35px 30px;
 }
 
+.services-card:hover{
+    transform: translateY(-8px);
+    cursor: pointer;
+}
+
 .services-card-logo{
     display: flex;
     align-items: center;
@@ -764,6 +776,11 @@ header{
 
 .get-started-link:hover{
     text-decoration: none;
+}
+
+.get-started-link:hover svg{
+    transition: all 0.2s ease-in-out;
+    transform: translateX(4px); 
 }
 
 .join-the-party{
